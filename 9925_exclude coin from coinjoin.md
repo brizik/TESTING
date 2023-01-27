@@ -1,3 +1,29 @@
+https://github.com/zkSNACKs/WalletWasabi/pull/9925#issue-1530835591
+
+> ## TL;DR
+> **Proof of Concept for #7487**
+> 
+> With this PR, one can ❄️"freeze"/exclude🧊 his or her coins from being selected for a **CoinJoin** by the `CoinJoinManager`. You can achive it by double-clicking on a **Coin**🪙 in the **CoinList**🗒️(CTRL+C+D).
+> 
+> ## Description
+> As this PR is only but a **PoC**, there is still work to do, mainly on the UI side (*wink* @zkSNACKs/visual-design-group 😉 ). Right now nothing indicates that a coin is excluded, you can check the Wallet file for the `"ExcludedCoinsFromCoinJoin" = [ ]`. But the main concept in the bussiness logic is this.
+> 
+> * Select and/or exclude Coins from the coinlist;
+> * These Coins won't be participating in CoinJoins;
+> * These Coins's `Outpoint` will be saved in the `KeyManager` (including the `Wallet` file);
+> * Thanks to that, upon loading the `Wallet`, we also set by `Outpoint`, which Coins should still be excluded;
+> * This is good, as one might move his/her wallet to another computer, but don't have to re-select 10s if not 100s Coins.
+> 
+> ## TODOs and Questions
+> * The UI should have an icon next to the Confirmation check and CoinJoining icon, indicationg if it's "frozen"? (maybe an icecube 🧊 , or snowflake ❄️)?
+> * Excluding a Coin should be a more obvious thing then double clicking _(wow)_.
+> * There needs to be a way to [select-deselect more coins in one step](https://github.com/zkSNACKs/WalletWasabi/issues/7487#issuecomment-1294373008).
+> 
+> ### And the question:
+> If we add this feature, the proper place for it is the CoinList. Which all started as a developer feature, but as I heard, there were user complains about this, "why I need to come to GitHub to find out that this feature exists". Until now it's like they found an easter egg🥚. At this point, we need to reconsider making a dedicated button for the Coinlist in the Wallet.
+
+
+
 Testing result:
 
 Business logic function works as expected (coin excluded from CoinJoin process) ✅ 
