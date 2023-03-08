@@ -101,7 +101,7 @@ Success dialog window appears
 
 Your wallet New Wallet 03-07 was added to Wasabi.
 
-Click on ## Done button
+Click on **Done** button
 
 <img width="1145" alt="Success screen_wallet created" src="https://user-images.githubusercontent.com/123734066/223689622-6f7609b6-58fc-4f57-b997-79b21094e2c8.png">
 
