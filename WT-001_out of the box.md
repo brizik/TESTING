@@ -34,6 +34,7 @@ write down the security words
 
 <img width="1145" alt="Recovery Words" src="https://user-images.githubusercontent.com/123734066/223476781-60749d9f-99fb-4fb5-b24a-01e70a21569e.png">
 
+warning message appears if recovery words does not match:
 
 <img width="1145" alt="recovery words - hint warning message" src="https://user-images.githubusercontent.com/123734066/223477173-2f611ec7-3481-41da-910e-9c267d07926f.png">
 
@@ -42,18 +43,76 @@ filling out recovery words:
 <img width="1145" alt="filling out accepted recovery words" src="https://user-images.githubusercontent.com/123734066/223478344-564059fc-5348-4422-a2de-3efb5f49e9d8.png">
 
 
-
-Accepted recovery words:
+### accepted recovery words:
 
 <img width="1145" alt="accepted recovery words" src="https://user-images.githubusercontent.com/123734066/223477428-f7807370-c923-49f5-b3d2-9e07b4900424.png">
 
-Add password dialog
+Add password dialog window opens:
+type a password 
+
+
+
+warning message appears in case of mismatching passwords:
+
+<img width="1145" alt="password - mismatch warning message" src="https://user-images.githubusercontent.com/123734066/223477920-aafab114-b982-4c2c-aaa3-008be17c5fa6.png">
+
+when password addded and accepted 
+click on ## Continue button
 
 <img width="1145" alt="Add password dialog" src="https://user-images.githubusercontent.com/123734066/223477674-d7dbb3b0-d579-4096-8f26-0ad29371c9fe.png">
 
-Mismatching passwords:
 
-<img width="1145" alt="password - mismatch warning message" src="https://user-images.githubusercontent.com/123734066/223477920-aafab114-b982-4c2c-aaa3-008be17c5fa6.png">
+Coinjoin Strategy dialog window opens
+
+default setting: ## Maximize Speed
+other options: 
+  Minimize Costs
+  Maximize Privacy
+
+<img width="1145" alt="Coinjoin Strategy dialog" src="https://user-images.githubusercontent.com/123734066/223686149-1aa512ee-e24c-4b91-a46b-3a2f02e6040d.png">
+
+by clicking on ## Customize text
+Coinjoin Strategy Settings dialog window opens
+
+<img width="1145" alt="Coinjoin Strateg Settings dialog" src="https://user-images.githubusercontent.com/123734066/223687447-7427de9f-eed1-4659-82b0-c5d999d5150e.png">
+
+
+Anonymity score target scale
+default value: 5
+
+<img width="1145" alt="Anonymity score target scale default value_5" src="https://user-images.githubusercontent.com/123734066/223688822-8f660ea4-ac8f-4db7-88c9-0e74e1406fb4.png">
+
+level of anonymity can be set on Anonymity score target scale between 0-300:
+
+<img width="1145" alt="Anonymity score target scale_105" src="https://user-images.githubusercontent.com/123734066/223688861-966f4654-971b-4c7c-a6eb-c246ebcee50b.png">
+
+Coinjoin time preference default value: hours
+
+<img width="1145" alt="Coinjoin time preferance default value_hours" src="https://user-images.githubusercontent.com/123734066/223688990-2e575af5-4d30-48a4-bbf0-0c47f569eb81.png">
+
+Time can be adjusted by selecting from the dropdown
+
+<img width="1145" alt="Coinjoin time preference set to weeks" src="https://user-images.githubusercontent.com/123734066/223689262-47f37b86-7730-4d0f-bc86-c2e320569582.png">
+
+once all settings finished
+click on ## Done button
+
+Success dialog window appears
+
+Your wallet New Wallet 03-07 was added to Wasabi.
+
+Click on ## Done button
+
+<img width="1145" alt="Success screen_wallet created" src="https://user-images.githubusercontent.com/123734066/223689622-6f7609b6-58fc-4f57-b997-79b21094e2c8.png">
+
+To open your newly created wallet type your password
+then click on ## Open button
+
+<img width="1145" alt="type pw to open newly created wallet" src="https://user-images.githubusercontent.com/123734066/223690408-cfcbcc12-f350-4dab-a509-35498e18599c.png">
+
+
+
+
 
 coin
 
