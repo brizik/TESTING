@@ -1,55 +1,188 @@
-## new installation - first time - brand new wasabi folder is created
+# new installation - first time - brand new wasabi folder is created
 
-<img width="914" alt="Existing Data folder" src="https://user-images.githubusercontent.com/123734066/223474188-d657a70b-b70b-4782-88c1-81a3b88ec786.png">
+start Wasabi Wallet application
 
+<img width="264" alt="start Wasabi Wallet" src="https://user-images.githubusercontent.com/123734066/223720086-19191eed-fe64-4d44-9b93-a78391f9d180.png">
 
-rename - go to data folder - search bar
-close the software - shot down
+app loaded
+## Welcome to Wasabi Wallet! dialog appears with 2 slides
 
+first slide with action button in the right bottom corner: **Continue**
 
-Data folder renamed to "client 03-07"
+contains: 
+
+- Wasabi Wallet logo on the right side 
+
+- texts on the left side on: 
+
+  - **Bitcoin wallet**
+
+    Receive and send money, securely and privately.
+  
+  - **Non-custodial**
+
+    You are in full controll, nobody can steal from you.
+ 
+  - **Private by default**
+
+    Because your transactions are nobody else's business.
+  
+  - **Open Source**
+
+    Verify what's going on and help us improve.
 
 <img width="1021" alt="Welcome to Wasabi Wallet" src="https://user-images.githubusercontent.com/123734066/223474088-b3745412-e9b6-496f-90ca-23f74f6638af.png">
 
+Click on **Continue** button
+
+second slide:
+
+## Start using Wasabi Wallet dialog appears
+
+back arrow action button facing left at the top left corner to return to the first slide
+
+second slide with action button in the right bottom corner: **Get started**
+
+contains:
+
+- Wasabi Wallet logo in the middle
+
+- text on second slide:
+
+  **Start using Wasabi Wallet**
+
+  The 1st Rule of Wasabi is for self defense and self defense only
+
 <img width="1023" alt="start using Wasabi Wallet screen" src="https://user-images.githubusercontent.com/123734066/223474288-eb21cf47-de57-4067-b5b5-eb14c1db0b39.png">
 
+Click on **Get Started** button
 
 ## create a wallet
 
+Add Wallet screen loads
+
+- **Create a new wallet - default option**
+
+    icon: + sign
+    
+- Connect to hardware wallet
+
+    icon: token
+    
+- Import a wallet
+
+    icon: download sign
+    
+- Recover a wallet
+
+    icon: return sign facing right
+
+
 <img width="1025" alt="Add Wallet dialog - 4 options" src="https://user-images.githubusercontent.com/123734066/223474834-0eca749c-b3f5-42e9-8db9-2307dc00f1e2.png">
+
+Click on **Create a new wallet** option
+
+## Wallet Name dialog appears
+
+with default name: Wallet
 
 <img width="1145" alt="Wallet Name dialog" src="https://user-images.githubusercontent.com/123734066/223474977-64f138fc-101c-42a6-8a4e-b4b8073827c7.png">
 
-hint for naming your wallet properly
+it is possible to rename the wallet by deleting the default text:
+
+<img width="1027" alt="type in a wallet name" src="https://user-images.githubusercontent.com/123734066/223727677-a8053ffb-4927-4780-9b9a-bff72db516a6.png">
+
+start typing a name of your wallet
+
+hint for naming your wallet properly:
+
+warning message with yellow letters appears: 
+
+    Leading and trailing white spaces are not allowed!
+    
+Continue button is greyed out - inactive until accepted name is typed.
 
 <img width="1145" alt="Wallet name - hint_warning message" src="https://user-images.githubusercontent.com/123734066/223475375-c53c26b7-b385-4185-a28e-6a67988c7ab5.png">
 
-accepted wallet name:
+## accepted wallet name:
+
+wallet name with white letters displayed - warning message disappeared:
 
 <img width="1145" alt="New Wallet name added" src="https://user-images.githubusercontent.com/123734066/223476467-c7ae26e4-d68c-4414-bc14-4d1b8a6499fb.png">
 
+click on **Continue** button 
 
+## Recovery Words screen displayed
+
+back arrow action button facing left at the top left corner to return to the previous dialog
+
+text instructions: Write down the recovery words in the correct order and store them in a safe place. They are needed to recover your wallet.
+
+recovery words displayed as a 12 numbered list: 
+
+1. **word1**           5. **word5**           9. **word9**
+2. **word2**           6. **word6**           10. **word10**
+3. **word3**           7. **word7**           11. **word11**
+4. **word4**           8. **word8**           12. **word12**
+
+info icon + You will not be able to see these words again once the wallet is created.
 
 write down the security words
 
+once done click on **Continue** button 
+
 <img width="1145" alt="Recovery Words" src="https://user-images.githubusercontent.com/123734066/223476781-60749d9f-99fb-4fb5-b24a-01e70a21569e.png">
+
+## Confirm Recovery Words dialog appears
+
+back arrow action button facing left at the top left corner to return to the previous dialog
+
+3 out of 12 Recovery words are required
+
+type them in a specific order
+
+title: Recovery word x
+text field: Type in the word
+
+title: Recovery word y
+text field: Type in the word
+
+title: Recovery word z
+text field: Type in the word
 
 warning message appears if recovery words does not match:
 
 <img width="1145" alt="recovery words - hint warning message" src="https://user-images.githubusercontent.com/123734066/223477173-2f611ec7-3481-41da-910e-9c267d07926f.png">
 
-filling out recovery words:
+in case a recovery word is correct text field turns to darker grey and check sign appears to next the text field on the right
+
+next text field becomes active: highlighted with blue underline 
 
 <img width="1145" alt="filling out accepted recovery words" src="https://user-images.githubusercontent.com/123734066/223478344-564059fc-5348-4422-a2de-3efb5f49e9d8.png">
 
 
 ### accepted recovery words:
 
+once all 3 recovery words correctly added background of text fields and letters turn to darker grey color.
+
+check sign displayed next to text fields highlighted with blue underline 
+
+once done click on **Continue** button 
+
 <img width="1145" alt="accepted recovery words" src="https://user-images.githubusercontent.com/123734066/223477428-f7807370-c923-49f5-b3d2-9e07b4900424.png">
 
-Add password dialog window opens:
-type a password 
+## Add password dialog window opens over Confirm Recovery Words
 
+title: **Add Password**
+text: This is needed to open and to recover your wallet. Store it safely, it cannot be changed.
+
+add a password to Type a password field (active field highlighted with blue underline)
+
+**Cancel** button active
+
+**Confirm** button inactive
+
+Confirm the password
 
 
 warning message appears in case of mismatching passwords:
