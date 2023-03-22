@@ -3,6 +3,8 @@
 
 [TestComponent_welcome dialog ](https://github.com/brizik/TESTING/blob/main/WTestComponent_welcome_dialog.md)
 
+<a href="https://github.com/brizik/TESTING/blob/main/WTestComponent_welcome_dialog.md" target="_blank">Hello, google!</a>
+
 ## create a wallet
 
 Add Wallet screen loads
