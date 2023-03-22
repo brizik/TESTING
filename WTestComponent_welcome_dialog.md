@@ -1,51 +1,58 @@
-### Welcome dialog
-Welcome to Wasabi Wallet! dialog appears with 2 slides
-first slide with action button in the right bottom corner: Continue
+# new installation - first time - brand new wasabi folder is created
 
-contains:
+start Wasabi Wallet application
 
-Wasabi Wallet logo on the right side
+<img width="264" alt="start Wasabi Wallet" src="https://user-images.githubusercontent.com/123734066/223720086-19191eed-fe64-4d44-9b93-a78391f9d180.png">
 
-texts on the left side:
+app loaded
+## Welcome to Wasabi Wallet! dialog appears with 2 slides
 
-Bitcoin wallet
+first slide with action button in the right bottom corner: **Continue**
 
-Receive and send money, securely and privately.
+contains: 
 
-Non-custodial
+- Wasabi Wallet logo on the right side 
 
-You are in full controll, nobody can steal from you.
+- texts on the left side: 
 
-Private by default
+  - **Bitcoin wallet**
 
-Because your transactions are nobody else's business.
+    Receive and send money, securely and privately.
+  
+  - **Non-custodial**
 
-Open Source
+    You are in full controll, nobody can steal from you.
+ 
+  - **Private by default**
 
-Verify what's going on and help us improve.
+    Because your transactions are nobody else's business.
+  
+  - **Open Source**
 
-Welcome to Wasabi Wallet
+    Verify what's going on and help us improve.
 
-Click on Continue button
+<img width="1021" alt="Welcome to Wasabi Wallet" src="https://user-images.githubusercontent.com/123734066/223474088-b3745412-e9b6-496f-90ca-23f74f6638af.png">
+
+Click on **Continue** button
 
 second slide:
 
-Start using Wasabi Wallet dialog appears
+## Start using Wasabi Wallet dialog appears
+
 back arrow action button facing left at the top left corner to return to the first slide
 
-second slide with action button in the right bottom corner: Get started
+second slide with action button in the right bottom corner: **Get started**
 
 contains:
 
-Wasabi Wallet logo in the middle
+- Wasabi Wallet logo in the middle
 
-text on second slide:
+- text on second slide:
 
-Start using Wasabi Wallet
+  **Start using Wasabi Wallet**
 
-The 1st Rule of Wasabi is for self defense and self defense only
+  The 1st Rule of Wasabi is for self defense and self defense only
 
-start using Wasabi Wallet screen
+<img width="1023" alt="start using Wasabi Wallet screen" src="https://user-images.githubusercontent.com/123734066/223474288-eb21cf47-de57-4067-b5b5-eb14c1db0b39.png">
 
-Click on Get Started button
-
+Click on **Get Started** button
