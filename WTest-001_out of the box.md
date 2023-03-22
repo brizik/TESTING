@@ -6,8 +6,11 @@
 
 [TestComponent_welcome dialog ](https://github.com/brizik/TESTING/blob/main/WTestComponent_welcome_dialog.md)
 
+## options to add wallet
 
-## create a wallet
+[TestComponent_add wallet](https://github.com/brizik/TESTING/blob/main/WTestComponent_3_add_wallet.md)
+
+## create a new wallet
 
 Add Wallet screen loads
 
