@@ -1,9 +1,11 @@
 ## new installation - first time - brand new wasabi folder is created
 
+[TestComponent_start wasabi](https://github.com/brizik/TESTING/blob/main/WTestComponent_1_start_wasabi_app_for_the_first_time.md)
+
+## welcome to Wasabi Wallet screen
 
 [TestComponent_welcome dialog ](https://github.com/brizik/TESTING/blob/main/WTestComponent_welcome_dialog.md)
 
-<a href="https://github.com/brizik/TESTING/blob/main/WTestComponent_welcome_dialog.md" target="_blank">Hello, google!</a>
 
 ## create a wallet
 
