@@ -13,7 +13,7 @@ contains:
 
 - Wasabi Wallet logo on the right side 
 
-- texts on the left side on: 
+- texts on the left side: 
 
   - **Bitcoin wallet**
 
@@ -86,9 +86,17 @@ Click on **Create a new wallet** option
 
 with default name: Wallet
 
+action button at the right bottom corner is active (green): Continue
+
 <img width="1145" alt="Wallet Name dialog" src="https://user-images.githubusercontent.com/123734066/223474977-64f138fc-101c-42a6-8a4e-b4b8073827c7.png">
 
-it is possible to rename the wallet by deleting the default text:
+it is possible to rename the wallet by deleting the default text (Wallet):
+
+text in field: Type in a wallet name
+
+Continue button is greyed out - inactive until accepted name is typed.
+
+Cancel button is active
 
 <img width="1027" alt="type in a wallet name" src="https://user-images.githubusercontent.com/123734066/223727677-a8053ffb-4927-4780-9b9a-bff72db516a6.png">
 
