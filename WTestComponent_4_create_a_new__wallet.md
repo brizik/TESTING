@@ -2,13 +2,17 @@
 
 **check the screen:**
 
-default wallet name is: Wallet (can be edited) it is highlighted in blue
+screen title: Wallet Name 
+
+action button: arrow facing to the left - leads back to previous dialog: Add Wallet
+
+in the text field the default wallet name displayed: Wallet (can be edited) highlighted in blue
 
 action button at the right bottom corner: Continue is active/green
 
 <img width="1145" alt="Wallet Name dialog" src="https://user-images.githubusercontent.com/123734066/223474977-64f138fc-101c-42a6-8a4e-b4b8073827c7.png">
 
-it is possible to rename the wallet by deleting the default text (Wallet):
+it is possible to **rename** the wallet by deleting the default text (Wallet):
 
 text in field: Type in a wallet name
 
@@ -32,8 +36,10 @@ action button Continue is greyed out - inactive until accepted name is typed.
 
 ## accepted wallet name:
 
+**type a name** for your wallet
+
 wallet name with white letters displayed - warning message disappeared:
 
 <img width="1145" alt="New Wallet name added" src="https://user-images.githubusercontent.com/123734066/223476467-c7ae26e4-d68c-4414-bc14-4d1b8a6499fb.png">
 
-click on **Continue** button (it is active)
+click on **Continue** button (it is active/green)
