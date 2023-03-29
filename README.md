@@ -1,14 +1,14 @@
 ## TESTING
 documentation of testing activites
 
-A Use Case can consist of more Test Cases.
+A **Use Case** can consist of more Test Cases.
 
-A Test Case can consist of more Components.
+A **Test Case** can consist of more Components.
 
-A Component is the smallest element in the testing structure that refers to the specific part of the code (dialog, compact dialog, screen) that can be easily modified.
+A **Component** is the smallest element in the testing structure that refers to the specific part of the code (dialog, compact dialog, screen) that can be easily modified.
 
 
-naming convention:
+<dt>Naming convention:<dt>
 
 ### Wasabi Use Case (WT_Use case name.md)
 -	short description of the use case, object of the case: what we want?
