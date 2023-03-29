@@ -2,7 +2,11 @@
 documentation of testing activites
 
 A Use Case can consist of more Test Cases.
-A Test Case consists of more Components.
+
+A Test Case can consist of more Components.
+
+A Component is the smallest element in the testing structure that refers to the specific part of the code (dialog, compact dialog, screen) that can be easily modified.
+
 
 naming convention:
 
