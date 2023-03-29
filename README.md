@@ -8,7 +8,7 @@ A **Test Case** can consist of more Components.
 A **Component** is the smallest element in the testing structure that refers to the specific part of the code (dialog, compact dialog, screen) that can be easily modified.
 
 
-## Naming convention:##
+## Naming convention:
 
 ### Wasabi Use Case (WT_Use case name.md)
 -	short description of the use case, object of the case: what we want?
