@@ -1,4 +1,4 @@
-## Wallet Name dialog appears
+## Wallet Name123 dialog appears
 
 ## check the screen
 
