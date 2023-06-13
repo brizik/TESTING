@@ -62,9 +62,11 @@ left - old lookout: blue background
 
 right - new color and styling: green background
 
-<img width="1253" alt="10644_faq html" src="https://github.com/brizik/TESTING/assets/123734066/b7b56b87-b8be-4326-a109-cc986eababe9">
+<img width="1022" alt="10644_website_color_change_FAQ" src="https://github.com/brizik/TESTING/assets/123734066/a44f9ccc-69c2-416f-80cd-95b758fbf12b">
 
-<img width="1223" alt="10644_faq_what is a coinjoin" src="https://github.com/brizik/TESTING/assets/123734066/eb268c02-f9cb-4b34-b814-d11d5d5df2f9">
+
+
+<img width="1278" alt="10644_website_color_change_what is a coinjoin" src="https://github.com/brizik/TESTING/assets/123734066/f41e3f07-9274-4280-a690-5bebb8b38850">
 
 
 ## about_us. png ##
